@@ -1,4 +1,4 @@
-package com.clara;
+package com.Happy;
 
 /**
  * Created by Clara. Manages game components such as the Snake, Kibble... and their interactions.
